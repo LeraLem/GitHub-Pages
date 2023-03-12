@@ -1,12 +1,13 @@
 Valerya
 ============
 
--------------------     ----------------------------
-MyAddress                          email@example.com
-MyTown 	                           my-phone-nr
-MyCountry                           
--------------------     ----------------------------
-
+-------------------     
+MyAddress<br>                  
+MyTown<br> 	                   
+MyCountry<br>   
+email@example.com<br>
+my-phone-nr<br>
+-------------------     
 Education
 ---------
 
